@@ -1,4 +1,3 @@
-# Data-Analyst-Project-2
 
 # Nashville Housing Plan Database Project
 # Overview
